@@ -1,0 +1,91 @@
+\begin{thebibliography}{}
+
+\bibitem[Appel et~al., 2010]{Appel2010}
+Appel, S., Sachs, K., and Buchmann, A. (2010).
+\newblock {Quality of service in event-based systems}.
+
+\bibitem[Behnel et~al., 2006]{Behnel2006}
+Behnel, S., Fiege, L., and Muhl, G. (2006).
+\newblock {On quality-of-service and publish-subscribe}.
+\newblock {\em IEEE International Conference}.
+
+\bibitem[Chockler and Vitenberg, 2001]{Chockler2001}
+Chockler, G.~V. and Vitenberg, R. (2001).
+\newblock {Group Communication Specifications : A Comprehensive Study}.
+\newblock 33(4):427--469.
+
+\bibitem[Cugola et~al., 2009]{Cugola2009}
+Cugola, G., Margara, A., and Milano, P. (2009).
+\newblock {RACED : an Adaptive Middleware for Complex Event Detection}.
+\newblock {\em Processing}.
+
+\bibitem[Demers et~al., 2007]{Demers2007}
+Demers, A., Gehrke, J., Panda, B., Riedewald, M., Sharma, V., and White, W.
+  (2007).
+\newblock {Cayuga : A General Purpose Event Monitoring System}.
+\newblock pages 412--422.
+
+\bibitem[Esper, 2014]{Esper}
+Esper (2014).
+\newblock Homepage of Esper \url{http://esper.codehaus.org/}.
+\newblock Accessed: 2014-04-16.
+
+\bibitem[Eugster et~al., 2003]{Eugster2003}
+Eugster, P.~T., Felber, P.~A., Guerraoui, R., and Kermarrec, A.-M. (2003).
+\newblock {The many faces of publish/subscribe}.
+
+\bibitem[Gyllstrom et~al., 2006]{Gyllstrom2006}
+Gyllstrom, D., Wu, E., Chae, H., and Diao, Y. (2006).
+\newblock {SASE: Complex event processing over streams}.
+
+\bibitem[Lohrmann et~al., 2013]{Lohrmann2013}
+Lohrmann, B., Warneke, D., and Kao, O. (2013).
+\newblock {Nephele streaming: stream processing under QoS constraints at
+  scale}.
+\newblock {\em Cluster Computing}.
+
+\bibitem[Luckham et~al., 2011]{Luckham2011}
+Luckham, D., Schulte, W.~R., Adkins, J., Bizarro, P., Mavashev, A., and
+  Niblett, P. (2011).
+\newblock Event processing glossary – version 2.0.
+\newblock (July).
+
+\bibitem[Luckham, 1996]{Luckham1996}
+Luckham, D.~C. (1996).
+\newblock {Rapide : A Language and Toolset for Simulation of Distributed
+  Systems by Partial Orderings of Events}.
+
+\bibitem[Malekpour et~al., 2011]{Malekpour2011}
+Malekpour, A., Carzaniga, A., Carughi, G.~T., and Pedone, F. (2011).
+\newblock {Probabilistic FIFO Ordering in Publish/Subscribe Networks}.
+\newblock {\em 2011 IEEE 10th International Symposium on Network Computing and
+  Applications}, pages 33--40.
+
+\bibitem[Oracle, 2014]{Oracle}
+Oracle (2014).
+\newblock Homepage of Oracle CEP
+  \url{http://www.oracle.com/technetwork/middleware/complex-event-processing/overview/index.html}.
+\newblock Accessed: 2014-04-17.
+
+\bibitem[Pietzuch et~al., 2003]{Pietzuch2003}
+Pietzuch, P., Shand, B., and Bacon, J. (2003).
+\newblock {A framework for event composition in distributed systems}.
+\newblock {\em Proceedings of the ACM/IFIP/USENIX \ldots}.
+
+\bibitem[Saleh and Sattler, 2013]{Saleh2013}
+Saleh, O. and Sattler, K.-U. (2013).
+\newblock {Distributed Complex Event Processing in Sensor Networks}.
+\newblock {\em 2013 IEEE 14th International Conference on Mobile Data
+  Management}, pages 23--26.
+
+\bibitem[StreamBase, 2014]{Streambase}
+StreamBase (2014).
+\newblock Homepage of StreamBase \url{http://www.streambase.com/}.
+\newblock Accessed: 2014-04-17.
+
+\bibitem[Wang et~al., 2011]{Wang2011}
+Wang, W., Xu, Y., and Khanna, M. (2011).
+\newblock {A survey on the communication architectures in smart grid}.
+\newblock {\em Computer Networks}, 55(15):3604--3629.
+
+\end{thebibliography}
